@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  font-family: 'Inter', sans-serif;
+  box-sizing: border-box;
+}
+html { overflow-y:scroll; }
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    z-index: -300;
+    width: 100%;
+    height: 100%;
+    background: url("images/mainimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+
+  .maintypo {
+    margin-top: 100px;
+    padding: 0;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 1;
+  }
+
+  .beimg {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+
+  .arrow {
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  .recommend1 {
+    width: 200px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+  }
+
+  .recommend2 {
+    width: 200px;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  .recommend3 {
+    width: 200px;
+    height: 120px;
+    margin-top: 10px;
+    margin-left: 30px;
+
+  }
